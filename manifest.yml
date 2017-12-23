@@ -1,5 +1,5 @@
 ---
 applications:
-- name: bluemix-spring-todos
+- name: SampleApp
   memory: 512M
   instances: 1
