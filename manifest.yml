@@ -3,5 +3,4 @@ applications:
 - name: SampleApp1
   memory: 512M
   instances: 1
-  path: D:\java\jenkins_working\workspace\pcfdeploy\build\libs\Sample-1.0.jar
   buildpack: https://github.com/cloudfoundry/java-buildpack
